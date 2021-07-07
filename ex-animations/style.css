@@ -37,7 +37,7 @@
     transition: 2.5s;
 }
 
-.ex-4-square {
+.ex-4-square:hover {
     opacity: 0;
 }
 .ex-5-square {
